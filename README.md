@@ -1,16 +1,11 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <meta onchange="utf-8">
-    <link rel="stylesheet" href="porfolio.css">
+    <meta charset="utf-8">
     <title>Omar's porfolio</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9NDikJ5qF5ZW8LI1lKfAk/1dPePYV1lG4Edyhsp4iXRo/XllBaFgPbyhCwDJhGGX" crossorigin="anonymous">
-    
     <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1092/1092254.png">
     <style>
-    @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
 
 #body{
   font-family: "Edu AU VIC WA NT Hand", cursive;
