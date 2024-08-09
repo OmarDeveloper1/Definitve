@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <title>Omar's porfolio</title>
     <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1092/1092254.png">
+    
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
-
 #body{
   font-family: "Edu AU VIC WA NT Hand", cursive;
   font-optical-sizing: auto;
