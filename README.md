@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Omar's porfolio</title>
     <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/1092/1092254.png">
     
     <style>
